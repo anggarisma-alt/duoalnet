@@ -1,0 +1,16 @@
+{
+  "name": "DUO AL NET",
+  "short_name": "DUO AL NET",
+  "description": "Pengelolaan pelanggan, tagihan, dan struk wifi lokal",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "lang": "id",
+  "background_color": "#F3F7FE",
+  "theme_color": "#0A62D8",
+  "icons": [
+    { "src": "img/icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any maskable" },
+    { "src": "img/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any maskable" }
+  ]
+}
